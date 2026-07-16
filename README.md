@@ -1,30 +1,93 @@
-# Olá! 👋 Eu sou Matheus Souza Duarte
+<h1 align="center">Olá! 👋 Eu sou Matheus Souza Duarte</h1>
 
-🎓 Estudante de Engenharia de Software (4º semestre)
+<p align="center">
+🎓 Estudante de Engenharia de Software (4º semestre)<br>
+📊 Focado em Business Intelligence, Power BI e SQL<br>
+🚀 Em busca de uma oportunidade de estágio na área de Dados
+</p>
 
-📊 Focado em Análise de Dados e Business Intelligence
+---
 
-💻 Atualmente estudando:
+## 👨‍💻 Sobre mim
+
+Sou estudante de Engenharia de Software apaixonado por tecnologia e análise de dados.
+
+Atualmente estudo e desenvolvo projetos utilizando Power BI, SQL, Python e Excel, buscando transformar dados em informações que auxiliem na tomada de decisões.
+
+Tenho experiência com infraestrutura de redes e estou realizando minha transição para a área de Dados, construindo um portfólio com dashboards e projetos práticos.
+
+---
+
+## 🚀 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" />
+</p>
+
+### Também trabalho com
+
+- 📊 Power BI
+- 📈 Excel
+- 🧹 Power Query
+- 🗄️ SQL Server
+- 📂 Banco de Dados Relacionais
+
+---
+
+## 📂 Projetos
+
+### 📊 Dashboard de Marketing
+- Análise de campanhas
+- KPIs
+- Conversão
+- CAC
+- ROI
+
+### 👥 Dashboard de RH
+- Turnover
+- Faixa salarial
+- Escolaridade
+- Estado civil
+- Indicadores de colaboradores
+
+### 💾 Exercícios de SQL
+- SELECT
+- JOIN
+- GROUP BY
+- HAVING
+- Subqueries
+- Views
+
+---
+
+## 📚 Atualmente estudando
+
+- Python
 - SQL
 - Power BI
-- Python
-- Excel
-- Banco de Dados
+- Modelagem de Dados
+- ETL
+- Business Intelligence
 
-🚀 Objetivo:
-Conquistar uma oportunidade como Estagiário em Dados ou BI.
+---
 
-## Tecnologias
+## 📈 Estatísticas
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusDDDuarte&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDDDuarte&layout=compact&theme=tokyonight"/>
+</p>
 
-## Projetos
+---
 
-📈 Dashboard de Marketing (Power BI)
+## 🌐 Contato
 
-📊 Dashboard de RH
+📧 mateuseduarteee@gmail.com
 
-📁 Em breve mais projetos...
+💼 LinkedIn:
+https://www.linkedin.com/in/matheus-duarte-souza26
+
+---
+
+⭐ Sempre aberto para aprender, colaborar e desenvolver soluções utilizando dados.
