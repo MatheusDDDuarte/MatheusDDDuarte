@@ -28,9 +28,3 @@ Conquistar uma oportunidade como Estagiário em Dados ou BI.
 📊 Dashboard de RH
 
 📁 Em breve mais projetos...
-
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusDDDuarte&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDDDuarte&layout=compact&theme=tokyonight)
