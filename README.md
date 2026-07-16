@@ -72,14 +72,7 @@ Tenho experiência com infraestrutura de redes e estou realizando minha transiç
 
 ---
 
-## 📈 Estatísticas
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusDDDuarte&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDDDuarte&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Contato
 
